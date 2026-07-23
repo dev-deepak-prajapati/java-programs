@@ -16,6 +16,7 @@ public class LLColl {
         li.add("Cat");
         li.add("Dog");
         System.out.println(li);
+        
         li.addFirst("Elephant");
         System.out.println(li);
         li.addLast("anjir");
